@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Reinforcement Learning with Quantum Variational Circuits"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-rl-qvc
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2020-10-1
+venue: 'AIIDE 2020'
+paperurl: 'https://github.com/lockwo/lockwo.github.io/blob/master/files/7437-Article%20Text-10884-1-10-20200930%20(4).pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+My first publication, presented as a poster in AIIDE'20. Applies QVCs to DQN and DDQN for simple RL environments.
