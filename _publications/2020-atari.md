@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-atari
 excerpt: 'Continuation of AIIDE 2020 work with a neural network encoder.'
 date: 2020-12-11
-venue: '1st Preregistration Experiment Workshop NeurIPS 2020'
+venue: '1st Preregistration Experiment Workshop NeurIPS'
 paperurl: 'https://github.com/lockwo/lockwo.github.io/blob/master/files/71_paper.pdf'
 ---
 
